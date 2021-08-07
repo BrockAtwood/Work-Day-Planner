@@ -35,8 +35,10 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+
 Screenshot:
-<img width="1362" alt="Screen Shot 2021-08-07 at 2 17 53 AM" src="https://user-images.githubusercontent.com/87385012/128593818-50c66d57-2425-44ff-8b3f-afac1736f94f.png">
+<img width="1362" alt="Screen Shot 2021-08-07 at 2 17 53 AM" src="https://user-images.githubusercontent.com/87385012/128593882-694d9810-a356-49be-82ea-267b9ba57a1d.png">
+
 
 
 Deployed Application Link:
