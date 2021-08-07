@@ -22,7 +22,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Screenshot:
+Screenshot: 
+![Screen Shot 2021-08-07 at 2 40 14 AM](https://user-images.githubusercontent.com/87385012/128594552-115a1941-25e1-4072-8ce2-038b2fe6d8b4.png)
+
 
 Deployed Application Link:
 https://brockatwood.github.io/Work-Day-Planner/
