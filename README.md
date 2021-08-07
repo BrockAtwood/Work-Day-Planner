@@ -35,5 +35,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Screenshot w/animation to demonstrtate teh application functionality:
+Screenshot:
+
+Deployed Application Link:
+https://brockatwood.github.io/Work-Day-Planner/
 ```
